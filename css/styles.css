@@ -400,7 +400,7 @@
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/images-hero/images.jfif);
+      url(../images/images-hero/titleimg3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -420,7 +420,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/images-hero/images.jfif);
+        url(../images/images-hero/titleimg3.jpg);
     }
   }
   
@@ -432,7 +432,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/images-hero/images.jfif);
+        url(../images/images-hero/titleimg3.jpg);
     }
   
     @media (min-device-pixel-ratio: 2),
@@ -443,8 +443,8 @@
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url(../images/images-hero/images.jfif);
-      }
+          url(../images/images-hero/titleimg3.jpg);
+        }
     }
   }
   
@@ -456,7 +456,7 @@
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/images-hero/images.jfif);
+        url(../images/images-hero/titleimg3.jpg);
     }
   
     @media (min-device-pixel-ratio: 2),
@@ -467,8 +467,8 @@
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url(../images/images-hero/images.jfif);
-      }
+          url(../images/images-hero/titleimg3.jpg);
+        }
     }
   }
   
